@@ -1,0 +1,34 @@
+_repo: Serkukset-Alkuperainen-jutelma-Ulla-tatilta_67686
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hannikainen, Pietari
+    birthdate: 1813
+    deathdate: 1899
+    gutenberg_agent_id: '5858'
+    url: http://www.gutenberg.org/2009/agents/5858
+    wikipedia: https://fi.wikipedia.org/wiki/Pietari_Hannikainen
+description: ''
+gutenberg_issued: '2022-03-22'
+identifiers:
+  gutenberg: '67686'
+language: fi
+pgterms:marc905: 20211218101324hannikaine
+pgterms:marc906: '1848'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: Finland :J. Cederwaller Poikineen,1848.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PH'
+- !lcsh 'Short stories, Finnish'
+- !lcsh 'Finnish fiction -- 19th century'
+- GITenberg
+tableOfContents: Mökin lapset -- Suuri kaupunki -- Saara täti. Serkukset -- Herrastalo.
+  Weli ja Sisar -- Opettaja. Ystäwykset -- Ann'-sohwia -- Suomalainen tyttö -- Sairaanhoitaja
+  -- Tunnustukset -- Matka -- Uutta tointa -- Kerjäläismummo. Kohtaus -- Merimies.
+  Omenakuoppa -- Talon onni -- Aarre -- Uudistalo -- Selitykset ja loppu.
+title: 'Serkukset: Alkuperäinen jutelma Ulla-tätiltä'
+url: http://www.gutenberg.org/ebooks/67686
